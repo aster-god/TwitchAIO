@@ -14,7 +14,7 @@ TwitchAIO is a Discord bot designed to interact with Twitch channels and provide
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/quehole/Twitch AIO.git
+   git clone https://github.com/aster-god/Twitch AIO.git
    cd TwitchAIO
    ```
 
